@@ -96,10 +96,6 @@ Colaboración con otros desarrolladores
 
 Escribir código limpio y entendible
 
-🌠 Visión a futuro
+🌠 Contacto:
 
-Este GitHub forma parte de un proyecto a largo plazo.
-
-Actualmente se trata de aprender, experimentar y construir bases sólidas, pero con el tiempo evolucionará hacia proyectos más complejos y ambiciosos.
-
-Cada repositorio representa un paso más en ese camino.
+correo: moncadalopez51@gmail.com
